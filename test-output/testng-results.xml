@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-06T07:56:49Z" name="KeyWord" finished-at="2023-07-06T07:57:20Z" duration-ms="31133">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T07:56:49Z" name="LoginTest" finished-at="2023-07-06T07:57:20Z" duration-ms="31133">
+      <class name="com.test.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.test.LoginTest@69e153c5]" started-at="2023-07-06T07:56:49Z" name="loginTest" finished-at="2023-07-06T07:57:03Z" duration-ms="13849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="signUpTest()[pri:0, instance:com.test.LoginTest@69e153c5]" started-at="2023-07-06T07:57:03Z" name="signUpTest" finished-at="2023-07-06T07:57:20Z" duration-ms="17232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- KeyWord -->
+</testng-results>
